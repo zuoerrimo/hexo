@@ -41,7 +41,7 @@ categories: mockdata
        {% asset_img proxy.jpg %}
        这样访问api/xxx就可以直接跳转到9090上访问。当然也可以同时配置axios的baseUrl设置代理，
        如图：
-       {% asset_img base.png %}
+       {% asset_img base.pngs %}
 
    13、HelloWorld.vue逻辑代码如下： 
        {% asset_img hello.jpg %}
